@@ -1,0 +1,83 @@
+.navbar-brand {
+    color: #03658C !important;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.navbar-nav li {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a {
+    font-weight: 500;
+} 
+
+.navbar-nav a:hover {
+    color:#03658C !important;
+}
+
+.hero {
+    position: relative;
+    background-image: url("../assets/hero.jpg");
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0 200px; 
+}
+
+.hero h1 {
+    font-size: 50px;
+    color: #f39237;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px #000;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.card-body i {
+    color: #03658C;
+}
+
+#featurecards {
+    height: 50vh;
+}
+
+#featurecards h2 {
+    color: #03658C;
+}
+
+
+.calltoaction {
+    height: 30vh;
+    background-color: #bbdef0;
+}
+
+.calltoaction h2 {
+    font-size: 40px;
+    color: #f39237;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px #000;
+}
+
+footer h5 {
+    color: #03658C;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+footer p {
+    font-size: 15px;
+}
+
+footer a {
+    text-decoration: none;
+    color:#000000;
+    font-weight: 400;
+}
+
+footer a:hover {
+    color:#03658C !important;
+}
